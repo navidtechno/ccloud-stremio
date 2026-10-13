@@ -1,0 +1,1 @@
+{"author":"","dependencies":{"stremio-addon-sdk":"^1.6.10"},"description":"Unofficial Stremio addon for the CCloud catalog","keywords":[],"license":"MIT","main":"server.js","name":"ccloud-stremio","scripts":{"start":"node server.js"},"version":"1.0.0"}
